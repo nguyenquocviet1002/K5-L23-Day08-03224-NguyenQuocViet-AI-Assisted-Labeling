@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2A
 - Tài khoản GitHub: nguyenquocviet1002
 - Repo bài nộp (URL): https://github.com/nguyenquocviet1002/K5-L23-Day08-NguyenQuocViet-03224-AI-Assisted-Labeling
-- Commit chốt bài (hash): HEAD
+- Commit chốt bài (hash): e1da6f0
 - Máy: Windows 11 x64, Google Colab (GPU NVIDIA Tesla T4)
 - CVAT (Docker): v2.81.0
 
